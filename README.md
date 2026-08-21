@@ -22,7 +22,7 @@ custom text commands on the fly — all without restarting the bot.
 
 ## Requirements
 
-- Python 3.10+ (a fixed TwitchIO version is required — see below)
+- Python 3.10+ (a fixed TwitchIO version is required — see below) in coding i used 14.3 so that is my suggestion
 - Windows (the TTS pipeline uses `pyttsx3`'s SAPI5 backend and `pywin32` for COM
   threading; other platforms would need adjustments to `_speak_once`)
 
