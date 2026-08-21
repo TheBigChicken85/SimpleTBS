@@ -7,7 +7,7 @@ custom text commands on the fly — all without restarting the bot.
 
 ## Features
 
-- **Bits/Cheer TTS** — any message with Bits attached is read aloud automatically.
+- **Bits/Cheer TTS** — any message with Bits attached is read aloud automatically. (limit adjustable)
 - **`!tts <text>`** — lead mods can make the bot speak arbitrary text.
 - **Sound effects (`SFX_COMMANDS`)** — trigger local audio files by chat command.
 - **Multi-device audio output** — TTS and SFX play out to multiple audio devices
