@@ -1,0 +1,7 @@
+twitchio<3.0
+pyttsx3
+pywin32
+sounddevice
+soundfile
+google-api-python-client
+google-auth
