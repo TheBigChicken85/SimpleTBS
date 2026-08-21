@@ -34,9 +34,6 @@ custom text commands on the fly — all without restarting the bot.
 cd C:\Users\YOUR_USER  # Change YOUR_USER to an actual user
 git clone https://github.com/TheBigChicken85/SimpleTBS.git
 cd SimpleTBS                     # If this fails find the exact path to this folder (usually something like C:\Users\YOUR_USER\SimpleTBS)
-python -m venv .venv
-.venv\Scripts\activate.bat       # Command Prompt
-.venv\Scripts\Activate.ps1       # PowerShell
 ```
 
 > [Git for Windows](https://git-scm.com/download/win) is
